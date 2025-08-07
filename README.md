@@ -10,8 +10,10 @@ This project was created with the following core ethical principles:
 ---
 
 ### ✅ **Transparency**
-- This anti-cheat is **100% open source**. Anyone can inspect the code to see **what it does, and what it doesn’t**.
-- We aim to document all **kernel-level interactions** clearly — no hidden behavior, no “black box.”
+- This anti-cheat is **100% open source**, licensed under the **Mozilla Public License (MPL)**.
+- Anyone can inspect, modify, and redistribute the code while respecting the license terms.
+- We document all **kernel-level interactions** clearly — no hidden behavior, no “black box.”
+- Using an open-source license like MPL ensures the community can verify and contribute to the code, building trust and security.
 
 ---
 
